@@ -1,4 +1,4 @@
-# demo.py
+# demo.py local code
 data = [1, 2, 3, 4, 5]
 
 square = lambda x: x * x
